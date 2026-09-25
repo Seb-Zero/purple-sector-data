@@ -30,3 +30,20 @@ jamais `0`.
 Données de chronométrage à titre informatif, reconstruites depuis
 [FastF1](https://github.com/theOehrly/Fast-F1). Projet indépendant, non affilié à la
 Formule 1, à la FIA ou aux écuries.
+
+**Ce dépôt n'accorde aucune licence sur les données qu'il contient.** Il est public parce
+que l'app Purple Sector les lit par GitHub Pages ; ce n'est pas une mise à disposition.
+Les résultats, chronos et statistiques de la Formule 1 sont revendiqués par les sociétés
+Formula 1. **Toute donnée est retirée sur demande de leurs ayants droit** : ouvrir une
+issue sur ce dépôt.
+
+F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX et les marques
+associées sont des marques de Formula One Licensing B.V.
+
+---
+
+*This repository grants no licence over the data it contains. It is public only because
+the Purple Sector app reads it through GitHub Pages. Formula 1 results, timing data and
+statistics are claimed by the Formula 1 companies; any data is removed at their request
+(open an issue). This project is unofficial and is not associated in any way with the
+Formula 1 companies.*
